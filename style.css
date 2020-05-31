@@ -20,7 +20,8 @@ p{
 }
 
 .bars{
-	background:rgb(191, 191, 191);
+	background-color:#bfbfbf;
+	text-decoration:none;
 }
 
 .navbar{
