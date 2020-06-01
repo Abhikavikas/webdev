@@ -22,6 +22,7 @@ p{
 .bars{
 	background-color:#bfbfbf;
 	text-decoration:none;
+	display:inline-block;
 }
 
 .navbar{
